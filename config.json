@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerperify",
+        "uuid": 6677929,
+        "checksum": "hhhc9s"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
